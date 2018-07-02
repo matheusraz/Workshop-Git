@@ -1,1 +1,1 @@
-print("Funcionou essa caralha sem POST")
+print("Funcionou com o post powha!")
